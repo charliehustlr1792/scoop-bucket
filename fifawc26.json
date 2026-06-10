@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/charliehustlr1792/fifawc26/releases/download/v0.2.0/fifawc26_0.2.0_Windows_x86_64.zip",
+            "url": "https://github.com/charliehustlr1792/fifawc26/releases/download/v0.2.1/fifawc26_0.2.1_Windows_x86_64.zip",
             "bin": [
                 "fifawc26.exe"
             ],
-            "hash": "0e88b7aa2ef06c6a56d4bf8668fe397503c6896ef5a39d3fbff7750c998cbd3c"
+            "hash": "73ad6537bf26840fd76d90dee69e52101221aa1b836c0cfd02cc8aeb9ce26596"
         },
         "arm64": {
-            "url": "https://github.com/charliehustlr1792/fifawc26/releases/download/v0.2.0/fifawc26_0.2.0_Windows_arm64.zip",
+            "url": "https://github.com/charliehustlr1792/fifawc26/releases/download/v0.2.1/fifawc26_0.2.1_Windows_arm64.zip",
             "bin": [
                 "fifawc26.exe"
             ],
-            "hash": "95534307f0819d7d48bb653af2ec45171788f0bc3df68e6b3d59841777d44c2c"
+            "hash": "4025fe748027349ab4dfab7f2d59f8a7713e29d09383772ba4f9b1c34996e9c3"
         }
     },
     "homepage": "https://github.com/charliehustlr1792/fifawc26",
